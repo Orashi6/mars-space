@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 100%;
+        width: 1110px;
+        display: flex;
+        margin: 0 auto;
+        justify-content: space-between;
+        margin-top: 36px;
+    border-bottom: 1px solid black;
+}
+
+select {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    border: none;
+    font-size: 120%;
+}
+
+form {
+    margin: 0 auto;
+    margin-top: 60px;
+    border: 1px solid black;
+    border-radius: 12px;
+    padding: 50px;
+
+}
+
+.logoa {
+    display: flex;
+    justify-content: space-between;
+}
+
+.omma {
+    color: #F0400F;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #0E0D5D;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.aldadi {
+    background-color: #F5F5F5;
+    font-size: 105%;
+
+    width: 220px;
+
+    margin: 30px auto;
+
+}
+
+.alda {
+    padding: 10px;
+    border-radius: 12px;
+    border: none;
+    background-color: white;
+
+
+}
+
+.rostan {
+    opacity: 0.5;
+    padding: 10px;
+    border-radius: 12px;
+    border: none;
+    background-color: #F5F5F5;
+}
+.rostan:hover{
+    padding: 10px;
+    border-radius: 12px;
+    border: none;
+    background-color: #ffffff;
+}
+
+input {
+    width: 200px;
+    margin-left: 80px;
+    padding: 10px;
+    border-radius: 12px;
+    border: 1px solid #F5F5F5;
+
+}
+.oky{
+    position: relative;
+    right: 50px;
+    margin-top: 9px;
+   width: 20px;
+}
+.qr{
+   
+    margin: 40px 100px;
+    color: black;
+    opacity: 0.5;
+}
+.tasdiq{
+   padding: 15px;
+   background-color: #F0400F;
+   border-radius: 12px;
+   -webkit-border-radius: 12px;
+   -moz-border-radius: 12px;
+   -ms-border-radius: 12px;
+   -o-border-radius: 12px;
+   color: white;
+   border: none;
+   margin-top: 30px;
+}
+.tasdiq:hover{
+      padding: 15px;
+      background-color: #F0400F;
+      border-radius:12px ;
+      opacity: 0.5;
+      transition:1s ;
+      -webkit-border-radius:12px ;
+      -moz-border-radius:12px ;
+      -ms-border-radius:12px ;
+      -o-border-radius:12px ;
+      color: white;
+      border: none;
+      
+      
+}
+.end
+{
+    display: flex;
+
+justify-content: end;
+}
+.container1{
+    max-width: 100%;
+        width: 1110px;
+        display: flex;
+        margin: 0 auto;
+        justify-content: space-between;
+        margin-top: 36px;
+}
